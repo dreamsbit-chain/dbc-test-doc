@@ -1,7 +1,6 @@
 ---
-description: Dreams Bit Chain Overview Page
+description: Dreams Bit Chain Overview 
 ---
 
 # Dreams Bit Chain
 <hr/>
-Hello

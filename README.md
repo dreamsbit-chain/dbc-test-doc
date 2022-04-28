@@ -1,4 +1,3 @@
-# DreamsBit Chain
+# Dreams Bit Chain DEV/STG Guide
 
-https://github.com/dreamsbit-chain/dbc-test-doc.git
-
+https://dreamsbit-chain.github.io/dbc-test-doc/
