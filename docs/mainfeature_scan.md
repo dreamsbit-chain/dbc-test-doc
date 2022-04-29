@@ -2,6 +2,7 @@
 description: The UserGuide for SCAN
 ---
 
+## Scan(Explorer)
 - user can check the block,tx and account in scan site
 - user can change the chain environment
     - **Gymfinity** : Develop Chain
