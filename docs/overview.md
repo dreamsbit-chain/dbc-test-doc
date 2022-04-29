@@ -1,5 +1,5 @@
 ---
-description: Dreams Bit Chain Overview 
+description: US2 Chain Overview 
 ---
 
 # Overview
