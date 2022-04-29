@@ -7,6 +7,7 @@ description: The UserGuide for Embedded BlockReward
 - Block Reward provide the seamless ability to **mint US2 Coin to the Custody Contract**.
 - Block Reward is executed **by only DBC Operator**.
 - Block Reward contract is embedded from genesis.
+- Default Block Reward is **0**.
 
 
 ```
