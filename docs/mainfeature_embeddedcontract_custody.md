@@ -1,20 +1,24 @@
 ---
-description: The UserGuide for MultiSig
+description: The UserGuide for Custody
 ---
 
-## Multi Sig
-- The purpose of multisig is to increase secutiy by requiring multiple parties to agree on transactions before execution
-- Multi Sig provide the seamless ability to **change BlockReward for the Miner**.
-- Multi Sig provide the seamless ability to **mint US2 Coin to the Custody Contract**.
-- Block Reward is executed **by only DBC Operator**.
-  <br/>
+## Custody
+- Custody provide the seamless ability to **distribute US2 Coin to EOA**.
+- Custody provide the seamless ability to **burn US2 Coin**.
+- Custody is executed **by only MultiSig**.
+- Custody contract is embedded from genesis.
+
+
+```
+- contract address: 0x0000000000000000000000000000000000007203
+```
+
 
 
 ![BlockRewardSystem](../resources/image/custody-system.png)
-- 
 
-#### Submit Transaction
+#### Distribute US2 Coin
 - contact us
 
-#### Confirm Transaction
+#### Burn US2 Coin
 - contract us
