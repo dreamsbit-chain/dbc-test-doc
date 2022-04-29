@@ -1,0 +1,7 @@
+- [**2.** Main Feature](docs/mainfeature.md)
+    - [**2-1.** Consensus](docs/mainfeature_consensus.md)
+    - [**2-2.** Embedded Contract](docs/mainfeature_embddedcontract.md)
+        - [**a.** BlockReward](docs/mainfeature_embddedcontract_blockreward.md)
+        - [**b.** Custody](docs/mainfeature_embddedcontract_custody.md)
+        - [**c.** MultiSig](docs/mainfeature_embddedcontract_multisig.md)
+    - [**2-3.** Dividend](docs/mainfeature_dividend.md)
