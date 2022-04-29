@@ -6,7 +6,7 @@ description: The UserGuide for import WUSDT Token
 - 
 
 ```
- - Contract Address: 0xa0d91e9c1211dc1a6026637652fDf368da49D811
+ - Contract Address: 0x419eC01d6589B9e7FB557FD088020DD31A3ce7DB
 ```
 
 ![Import Tokens](../resources/image/import-token.png)
