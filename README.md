@@ -9,7 +9,7 @@
         - [**b.** MultiSig](docs/mainfeature_embeddedcontract_multisig.md)
         - [**c.** Custody](docs/mainfeature_embeddedcontract_custody.md)
     - [**2-3.** Scan(Explorer)](docs/mainfeature_scan.md)
-    - [**2-3.** Dive]
+    - [**2-4.** Dividend](docs/mainfeature_dividend.md)
 
 
 - [**3.** User Guide](docs/userguide.md)
