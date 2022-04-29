@@ -2,8 +2,8 @@
 description: The UserGuide for Connecting Chain to Metamask
 ---
 
-## Step 1. Installed a Wallet
- - (Recommend) install Metamask
+## Step 1. Setup a crypto wallet
+ - (Recommend) install the Metamask
  - etc
 
 ```
