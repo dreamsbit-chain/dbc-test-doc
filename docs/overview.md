@@ -3,7 +3,7 @@ description: Dreams Bit Chain Overview
 ---
 
 # Overview
-- this doc provide about STG DBC Chain.
+- this doc provide the information about STG DBC Chain.
 - TBD...
 
 ## Chain Info
