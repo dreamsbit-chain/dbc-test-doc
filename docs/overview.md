@@ -30,11 +30,11 @@ description: US2 Chain Overview
 
 ### What the US2 operator can do?
 - The operator can change blockReward for a miner (default: 0).
-- The operator can mint the US2 coin to a custody wallet.
-- The operator can either distributes or burns the US2 coins in the custody wallet.
+- The operator can mint the US2 coin to a custody contract.
+- The operator can either distributes or burns the US2 coins in the custody contract.
 
 ### What the US2 sig-operator can do?
-- The sig-operator can confirm distribution or burn requests on the US2 coins in the custody wallet.
+- The sig-operator can confirm distribution or burn requests on the US2 coins in the custody contract.
 
 
 
