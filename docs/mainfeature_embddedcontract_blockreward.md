@@ -4,7 +4,7 @@ description: The UserGuide for Embedded BlockReward
 
 # Block Reward 
 - Block Reward provide a seamless ability to **modify blockReward for a miner**.
-- Block Reward provide a seamless ability to **mint the US2 Coins to the custody wallet**.
+- Block Reward provide a seamless ability to **mint the US2 Coins to the custody contract**.
 - Block Reward can be modify **by only the US2 Operator**.
 - Block Reward contract is embedded from genesis.
 - Default Block Reward is **0**.
