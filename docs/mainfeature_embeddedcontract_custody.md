@@ -5,7 +5,7 @@ description: The UserGuide for Custody
 # Custody Contract
 - The custody contract provides the seamless ability to **distribute US2 coins to EOA**.
 - The custody contract provides the seamless ability to **burn US2 coins**.
-- The custody contract is executed **only by multi-signature contract**.
+- The custody contract is executed **only by the multi-signature contract**.
 - The custody contract is embedded in genesis.
 
 
