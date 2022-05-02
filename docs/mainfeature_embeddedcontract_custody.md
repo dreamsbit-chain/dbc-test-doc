@@ -2,11 +2,11 @@
 description: The UserGuide for Custody
 ---
 
-## Custody
-- Custody provide the seamless ability to **distribute US2 Coin to EOA**.
-- Custody provide the seamless ability to **burn US2 Coin**.
-- Custody is executed **by only MultiSig**.
-- Custody contract is embedded from genesis.
+# Custody Contract
+- The custody contract provides the seamless ability to **distribute US2 coins to EOA**.
+- The custody contract provides the seamless ability to **burn US2 coins**.
+- The custody contract is executed **only by multi-signature contract**.
+- The custody contract is embedded in genesis.
 
 
 ```
@@ -17,8 +17,6 @@ description: The UserGuide for Custody
 
 ![BlockRewardSystem](../resources/image/custody-system.png)
 
-#### Distribute US2 Coin
-- contact us
 
-#### Burn US2 Coin
-- contract us
+# How to utilize Burn Contract
+- Please contact support@us2.money
