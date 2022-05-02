@@ -18,5 +18,5 @@ description: The UserGuide for Custody
 ![BlockRewardSystem](../resources/image/custody-system.png)
 
 
-# How to utilize Burn Contract
+# Have more questions regarding distribution & burn mechanism?
 - Please contact support@us2.money
