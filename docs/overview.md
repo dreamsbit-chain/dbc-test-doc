@@ -1,40 +1,40 @@
 ---
-description: Dreams Bit Chain Overview 
+description: US2 Chain Overview 
 ---
 
 # Overview
-- this doc provide the information about STG DBC Chain.
-- TBD...
+- This document provides information about the Staging environment of the US2 Chain.
+- Last update: 30/04/2022 
 
-## Chain Info
+# Chain Information
 ```
  - rpcUri: https://stg-chain.test-us2.com
  - chainId: 1516
  - chainName: Inception
  - decimal: 18
  - symbol: US2
- - minGasPrice: 500000000000 (500GWEI)
+ - minGasPrice: 500000000000 (500 GWEI)
 ```
 
-## Scan(Explorer Info)
+# Scan (Block Explorer) Information
 ```
- - Host : https://stg-scan-front.test-us2.com/
+ - Host: https://stg-scan-front.test-us2.com/
 ```
 
 
-### What can user do?
-- The user can connect dbc chain using crypto wallet. (<<>>metamask<<>>)
-- The user can import test WUSDC, WUSDT token.
-- The user can receive US2 Coin, tokens using faucet API.
-- The user can check block, transaction, address using the scan site.
+### What user can do?
+- A user can connect to the US2 chain by using a decentralized wallet (the US2 chain is EVM compatible; Hence, we suggest utilizing Metamask).
+- A user can test mint wUSDC & wUSDT tokens.
+- A user can receive US2 Coins & tokens by faucet API.
+- A user can check block info, transaction detail, and addresses (EOA, Contract, and Validator) from the scan site.
 
-### What can us2 operator do?
-- The operator can change BlockReward for Miner (default: 0)
-- The operator can mint US2 coin to Custody.
-- The operator can submit distribute and burn US2 coin in Custody.
+### What the US2 operator can do?
+- The operator can change blockReward for a miner (default: 0).
+- The operator can mint the US2 coin to a custody contract.
+- The operator can either distributes or burns the US2 coins in the custody contract.
 
-### What can us2 Sig Operator do?
-- The sig operator can confirm distribute and burn US2 coin in Custody.
+### What the US2 sig-operator can do?
+- The sig-operator can confirm distribution or burn requests on the US2 coins in the custody contract.
 
 
 

@@ -2,13 +2,12 @@
 description: The UserGuide for MultiSig
 ---
 
-## Multi Sig
-- The purpose of multisig is to increase secutiy by requiring multiple parties to agree on transactions before execution
-- Multi Sig provide the seamless ability to **change BlockReward for the Miner**.
-- Multi Sig provide the seamless ability to **mint US2 Coin to the Custody Contract**.
-- Submit&Confirm transaction is executed **by only DBC Operator**.
-- Multi Sig Contract is embedded from genesis.
-
+## Multi-Signature
+- The purpose of the multi-signature is to increase security by requiring multiple parties to reach a consensus on a transaction before execution.
+- The multi-signature contract provides the seamless ability to **change blockReward for the miner**.
+- The multi-signature contract provides the seamless ability to **mint US2 coins to the custody contract**.
+- Submit & Confirm transaction is executed **by only the US2 operator**.
+- The multi-signature contract is embedded in genesis.
 
 ```
 - contract address: 0x0000000000000000000000000000000000007201
@@ -19,8 +18,3 @@ description: The UserGuide for MultiSig
 ![MultiSigSystem](../resources/image/multisig-system.png)
  
 
-#### Submit Transaction
-- contact us
-
-#### Confirm Transaction
-- contract us
