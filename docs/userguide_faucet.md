@@ -33,9 +33,9 @@ ex) http://stg.launchpad-server.test-us2.com/test/faucets/WUSDC/0x2921814a585C6e
 ex) http://stg.launchpad-server.test-us2.com/test/faucets/WUSDT/0x2921814a585C6e69E557d293cAe509ed64b751Dd
 ```
 
-## Step 4. Check your balance in scan 
-- after insert & excute faucet url, you can get txHash, scanLink
-- click the scanLink and check the transaction & balance
+## Step 4. Check your balance in the scan 
+- After inserting & execute faucet url, you can get txHash, scanLink
+- Click the scanLink and check the transaction & balance
 
 
 ![FacetLink](../resources/image/scan-faucet-link.png)
