@@ -9,7 +9,7 @@ description: The UserGuide for SCAN
     - **Inception** : Stg Chain
 
 ```
-- Scan Url: https://stg-scan-front.test-us2.com/
+- Scan Url: https://stg-scan-front.test-us2.com/Inception
 ```
 
 ![Scan](../resources/image/scan.png)

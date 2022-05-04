@@ -23,7 +23,7 @@ description: The UserGuide for Connecting Chain to Metamask
  - Network RPC URL: https://stg-chain.test-us2.com
  - Chain ID: 1516
  - Currency Symbol: US2
- - Block Explorer URL: https://stg-scan-front.test-us2.com/
+ - Block Explorer URL: https://stg-scan-front.test-us2.com/Inception
 ```
 
 ![Add a DBC Chain Network](../resources/image/insert-chaininfo.png)

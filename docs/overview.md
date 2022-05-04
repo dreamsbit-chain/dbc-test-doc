@@ -18,7 +18,7 @@ description: US2 Chain Overview
 
 # Scan (Block Explorer) Information
 ```
- - Host: https://stg-scan-front.test-us2.com/
+ - Host: https://stg-scan-front.test-us2.com/Inception
 ```
 
 

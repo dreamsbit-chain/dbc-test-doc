@@ -14,7 +14,7 @@ description: The UserGuide for SCAN
 - Input your wallet address, contract address, or validator address to input field in US2 scan stie.
 
 ```
-- Scan Url: https://stg-scan-front.test-us2.com/
+- Scan Url: https://stg-scan-front.test-us2.com/Inception
 ```
 
 ![Scan](../resources/image/scan.png)
