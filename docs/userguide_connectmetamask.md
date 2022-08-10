@@ -19,11 +19,30 @@ description: The UserGuide for Connecting Chain to Metamask
  - Open the Metamask -> Settings -> Networks -> Add Network
 
 ```
- - Network Name: US2 stg Chain
- - Network RPC URL: https://stg-chain.test-us2.com
+   ######## DEV ########
+ - Network Name: US2 DEV Chain (gymfinity) 
+ - Network RPC URL: https://gymfinity.dev.us2.money
+ - Chain ID: 1515
+ - Currency Symbol: US2
+ - Block Explorer URL: https://scan.dev.us2.money/
+```
+
+```
+   ######## STG ########
+ - Network Name: US2 STG Chain (inception)
+ - Network RPC URL: https://inception.stg.us2.money/
  - Chain ID: 1516
  - Currency Symbol: US2
- - Block Explorer URL: https://stg-scan-front.test-us2.com/Inception
+ - Block Explorer URL: https://scan.stg.us2.money/
+```
+
+```
+   ######## PROD ########
+ - Network Name: US2 PROD Chain (mainnet)
+ - Network RPC URL: https://mainnet.us2.money/
+ - Chain ID: 1517
+ - Currency Symbol: US2
+ - Block Explorer URL: https://scan.us2.money/
 ```
 
 ![Add a DBC Chain Network](../resources/image/insert-chaininfo.png)
